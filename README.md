@@ -8,7 +8,7 @@ These programs can help you make the first steps towards working with the Intera
 
 **This repository is intended to supplement the Medium articles below:**
 
-**Part 1:** https://medium.com/@corbinbalzan/structure-and-communicating-with-interactive-brokers-api-python-78ed9dcaccd7
+**Part 1:** https://medium.com/@corbinbalzan/structure-and-communicating-with-interactive-brokers-api-python-78ed9dcaccd7     
 **Part 2:** https://medium.com/@corbinbalzan/executing-orders-on-interactive-brokers-api-how-to-guide-b8fb6059a0f0
 
 It is incredibly helpful to read the articles to gain an understanding of the fundamentals and rationale behind the code. 
