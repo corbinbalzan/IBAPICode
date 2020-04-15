@@ -19,7 +19,7 @@ It is incredibly helpful to read the articles to gain an understanding of the fu
 
 If you feel the code needs to be updated or have a suggestion on how to make the code better/more understandable, don't be afraid to reach out:
 
-corbinbalzan@gmail.com
+https://bit.ly/updatesform
 
 
 
