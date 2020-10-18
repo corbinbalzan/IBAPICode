@@ -13,7 +13,8 @@ If you'd like to learn quickly and receive the most detailed and accurate inform
 This repository is intended to supplement Medium articles:
 - [Article 1: Connection to TWS](https://medium.com/@corbinbalzan/structure-and-communicating-with-interactive-brokers-api-python-78ed9dcaccd7 "Medium Article")
 - [Article 2: Executing Trades (after connection)](https://medium.com/@corbinbalzan/executing-orders-on-interactive-brokers-api-how-to-guide-b8fb6059a0f0 "Medium Article")
-- Misc Article: Quickstart Guide (quicker, less features, less explanation)
+- [Misc Article: Quickstart Guide (quicker, less features, less explanation)](https://medium.com/@corbinbalzan/the-quick-beginners-guide-to-interactive-brokers-api-13a89de14b7d "Medium Article")
+
 
 It is incredibly helpful to read the articles to gain an understanding of the fundamentals and rationale behind the code. 
 
